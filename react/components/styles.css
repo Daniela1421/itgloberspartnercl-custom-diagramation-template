@@ -3,7 +3,6 @@
 .grid__3, 
 .grid__4 {
  display: flex;
- /* flex-wrap: wrap; */
  align-items: center;
  justify-content: space-between;
 }
@@ -46,13 +45,11 @@
 
 .grid__itemBig{
   margin: 10px;
-  /* width: calc( 50% - 20px);  */
   width: 50%;
 }
 
 .grid__itemSmall{
   margin: 10px;
-  /* width: calc( 25% - 20px); */
   width: 20%;
   display: flex;
   flex-direction: column;
