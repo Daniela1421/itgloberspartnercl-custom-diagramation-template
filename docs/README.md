@@ -1,6 +1,14 @@
 # Special Diagramation
 
 Este componente es una grilla interactiva que recibe elementos hijos y permite cambiar el orden desde el site editor.
+- Grid 1 
+![image](https://user-images.githubusercontent.com/92064924/204862444-e29537e4-e1d1-4992-a444-ab21641bc268.png)
+- Grid 2 
+![image](https://user-images.githubusercontent.com/92064924/204862673-d9de54d5-3cd9-4bcd-8468-30122cd0fc52.png)
+- Grid 3 
+![image](https://user-images.githubusercontent.com/92064924/204862458-19050ab5-13d6-4331-a243-993c366f7eb5.png)
+- Grid 4 
+![image](https://user-images.githubusercontent.com/92064924/204862108-7237e16d-c108-4b68-b66b-f93900772846.png)
 
 ## Configuration 
 
